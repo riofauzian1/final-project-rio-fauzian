@@ -1,0 +1,5 @@
+github repository
+https://github.com/riofauzian1/final-project-rio-fauzian.git
+
+web deploy
+https://riofauzian-final-project-prakerja.netlify.app/
